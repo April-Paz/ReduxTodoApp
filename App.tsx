@@ -1,4 +1,3 @@
-// App.tsx
 import React from 'react';
 import { Provider } from 'react-redux';
 import { SafeAreaView, StatusBar } from 'react-native';
